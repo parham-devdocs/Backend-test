@@ -749,3 +749,10 @@
 2024-0529 	23:40:09	866dd55d-ee12-43b9-9d35-5623b345d1c3	GET  undefined /products/5
 2024-0529 	23:40:32	6b09da9a-6a87-4e73-9bb7-b770406d171d	GET  undefined /products/66577c0afc9ae3daa422d6be
 2024-0529 	23:44:54	64287d68-9840-491c-9eb3-1d8654c4c076	PUT  undefined /products/
+2024-0530 	11:55:14	b05db54d-6dfb-4af3-b7f0-e4fb4aac60e6	POST  undefined /register
+2024-0530 	11:55:33	3ffb219a-e58b-4073-80d3-6dd0f9cb73cc	POST  undefined /register
+2024-0530 	11:55:48	f1e5842c-65d0-4371-a72d-97fdfff2add4	GET  undefined /products/10
+2024-0530 	11:56:01	7fd49c3f-e1f5-4bbb-96e8-043bcd6b8a0b	GET  undefined /products/1
+2024-0530 	11:59:53	4d01589b-6a04-4a70-9c7f-120b4b47619f	GET  undefined /products/66577c0afc9ae3daa422d6be
+2024-0530 	12:08:25	c2bcebcc-5408-4e24-beba-7bb9393cdbeb	GET  undefined /products/66577c0afc9ae3daa422d6be
+2024-0530 	12:08:32	b6d0879b-1005-4752-a3b8-89e9d68a4bba	GET  undefined /products
